@@ -1,0 +1,16 @@
+C:\Users\34844\Desktop\IsHitTestVisibleDemo\IsHitTestVisibleDemo\NetFramework.IsHitTestVisibleDemo\bin\Debug\NetFramework.IsHitTestVisibleDemo.exe.config
+C:\Users\34844\Desktop\IsHitTestVisibleDemo\IsHitTestVisibleDemo\NetFramework.IsHitTestVisibleDemo\bin\Debug\NetFramework.IsHitTestVisibleDemo.exe
+C:\Users\34844\Desktop\IsHitTestVisibleDemo\IsHitTestVisibleDemo\NetFramework.IsHitTestVisibleDemo\bin\Debug\NetFramework.IsHitTestVisibleDemo.pdb
+C:\Users\34844\Desktop\IsHitTestVisibleDemo\IsHitTestVisibleDemo\NetFramework.IsHitTestVisibleDemo\obj\Debug\MainWindow.g.cs
+C:\Users\34844\Desktop\IsHitTestVisibleDemo\IsHitTestVisibleDemo\NetFramework.IsHitTestVisibleDemo\obj\Debug\App.g.cs
+C:\Users\34844\Desktop\IsHitTestVisibleDemo\IsHitTestVisibleDemo\NetFramework.IsHitTestVisibleDemo\obj\Debug\NetFramework.IsHitTestVisibleDemo_Content.g.cs
+C:\Users\34844\Desktop\IsHitTestVisibleDemo\IsHitTestVisibleDemo\NetFramework.IsHitTestVisibleDemo\obj\Debug\NetFramework.IsHitTestVisibleDemo_MarkupCompile.cache
+C:\Users\34844\Desktop\IsHitTestVisibleDemo\IsHitTestVisibleDemo\NetFramework.IsHitTestVisibleDemo\obj\Debug\NetFramework.IsHitTestVisibleDemo_MarkupCompile.lref
+C:\Users\34844\Desktop\IsHitTestVisibleDemo\IsHitTestVisibleDemo\NetFramework.IsHitTestVisibleDemo\obj\Debug\MainWindow.baml
+C:\Users\34844\Desktop\IsHitTestVisibleDemo\IsHitTestVisibleDemo\NetFramework.IsHitTestVisibleDemo\obj\Debug\NetFramework.IsHitTestVisibleDemo.g.resources
+C:\Users\34844\Desktop\IsHitTestVisibleDemo\IsHitTestVisibleDemo\NetFramework.IsHitTestVisibleDemo\obj\Debug\NetFramework.IsHitTestVisibleDemo.Properties.Resources.resources
+C:\Users\34844\Desktop\IsHitTestVisibleDemo\IsHitTestVisibleDemo\NetFramework.IsHitTestVisibleDemo\obj\Debug\NetFramework.IsHitTestVisibleDemo.csproj.GenerateResource.cache
+C:\Users\34844\Desktop\IsHitTestVisibleDemo\IsHitTestVisibleDemo\NetFramework.IsHitTestVisibleDemo\obj\Debug\NetFramework.IsHitTestVisibleDemo.csproj.CoreCompileInputs.cache
+C:\Users\34844\Desktop\IsHitTestVisibleDemo\IsHitTestVisibleDemo\NetFramework.IsHitTestVisibleDemo\obj\Debug\NetFramework.IsHitTestVisibleDemo.exe
+C:\Users\34844\Desktop\IsHitTestVisibleDemo\IsHitTestVisibleDemo\NetFramework.IsHitTestVisibleDemo\obj\Debug\NetFramework.IsHitTestVisibleDemo.pdb
+C:\Users\34844\Desktop\IsHitTestVisibleDemo\IsHitTestVisibleDemo\NetFramework.IsHitTestVisibleDemo\obj\Debug\NetFramework.IsHitTestVisibleDemo.csprojAssemblyReference.cache

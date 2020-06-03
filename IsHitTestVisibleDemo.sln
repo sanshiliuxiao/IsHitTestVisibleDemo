@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCore.IsHitTestVisibleDemo", "NetCore.IsHitTestVisibleDemo\NetCore.IsHitTestVisibleDemo.csproj", "{34012EDF-26C2-46FF-9B22-898358B47486}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetFramework.IsHitTestVisibleDemo", "NetFramework.IsHitTestVisibleDemo\NetFramework.IsHitTestVisibleDemo.csproj", "{279845C1-209A-4D4D-893F-CD5341E71B2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34012EDF-26C2-46FF-9B22-898358B47486}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34012EDF-26C2-46FF-9B22-898358B47486}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34012EDF-26C2-46FF-9B22-898358B47486}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34012EDF-26C2-46FF-9B22-898358B47486}.Release|Any CPU.Build.0 = Release|Any CPU
+		{279845C1-209A-4D4D-893F-CD5341E71B2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{279845C1-209A-4D4D-893F-CD5341E71B2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{279845C1-209A-4D4D-893F-CD5341E71B2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{279845C1-209A-4D4D-893F-CD5341E71B2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
